@@ -1,7 +1,7 @@
 {
-  "name": "gulp-sass",
+  "name": "gulp-sass-china",
   "version": "2.0.4",
-  "description": "Gulp plugin for sass",
+  "description": "Gulp plugin for sass（国情，不翻墙版）",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha test"
@@ -15,14 +15,14 @@
     "sass",
     "gulp"
   ],
-  "author": "David Manning",
+  "author": "Edwon Lim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dlmanning/gulp-sass/issues"
+    "url": "https://github.com/EdwonLim/gulp-sass-china/issues"
   },
   "dependencies": {
     "gulp-util": "^3.0",
-    "node-sass": "^3.0.0",
+    "node-sass-china": "^3.0.0",
     "object-assign": "^2.0.0",
     "through2": "^0.6.3",
     "vinyl-sourcemaps-apply": "~0.1.1"
